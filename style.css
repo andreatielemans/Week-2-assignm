@@ -21,11 +21,23 @@ h1{
 }
 ul{
     border-style: solid;
+
+    width: 150px;
+    float: right;
 }
 /* i also changed images 2 and 3 size  */
 
 .link-styles {
     margin-inline: .5em;
     text-decoration: none;
+    
+}
+
+.classes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
     
 }
