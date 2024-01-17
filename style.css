@@ -1,0 +1,31 @@
+.right-stuff {
+    border-style: solid; color: rgb(87, 55, 216);
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+    padding: 20px;
+}
+/* i moved the tabs to the right */
+.swim1{
+    height: 200px;
+    width: 1000px;
+}
+.swim2{
+    height: 200px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    background: aqua;
+}
+ul{
+    border-style: solid;
+}
+/* i also changed images 2 and 3 size  */
+
+.link-styles {
+    margin-inline: .5em;
+    text-decoration: none;
+    
+}
